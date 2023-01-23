@@ -62,8 +62,30 @@ li{
     width: 40%;
 }
 
+
+.cover2{
+    background-color: pink;
+    margin: 60px;
+}
+
+
+.sec2{
+    background-color: blue;
+    height: 350px;
+    width: 40%;
+}
+
+
 .final_sec{
-    height: 300px;
+    height: 600px;
     background-color: rgb(167, 160, 160);
     width: 100%;
+    display: flex;
+}
+
+.container_sec{
+    height: 350px;
+    width: 400px;
+    background-color: green;
+    margin: auto;
 }
