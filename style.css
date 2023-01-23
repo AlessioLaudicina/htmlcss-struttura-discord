@@ -6,8 +6,9 @@
 
 .debug header{
     background-color: #7adfec;
-    height: 150px;
-    padding-top: 50px;
+    height: 300px;
+    padding-top: 10px
+
 }
 
 .flex-container{
@@ -28,6 +29,21 @@
     padding-left: 10px;
     padding-right: 10px;
 }
+
+.header-bottom{
+    height: 270px;
+    background-color: blue;
+    margin-top: 10px;
+}
+
+.flex_cover{
+    display: flex;
+    background-color: red;
+    height: 200px;
+    width: 200px;
+    margin: auto;
+}
+
 li{
     display: inline;
     text-decoration: none;
