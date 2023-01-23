@@ -4,4 +4,30 @@
     border: border-box;
 }
 
+.debug header{
+    background-color: blue;
+    height: 200px;
+    padding-top: 50px;
+}
+
+.flex-container{
+    max-width: 1079px;
+    margin: auto;
+}
+
+
+.header_top{
+
+    display: flex;
+    justify-content: space-between;
+    background-color: orange;
+    height: 100px;
+    width: 600px;
+    margin: auto;
+    padding-top: 10px;
+}
+li{
+    display: inline;
+    text-decoration: none;
+}
 
