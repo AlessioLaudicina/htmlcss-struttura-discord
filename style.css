@@ -5,8 +5,8 @@
 }
 
 .debug header{
-    background-color: blue;
-    height: 200px;
+    background-color: #7adfec;
+    height: 150px;
     padding-top: 50px;
 }
 
@@ -21,13 +21,26 @@
     display: flex;
     justify-content: space-between;
     background-color: orange;
-    height: 100px;
+    height: 30px;
     width: 600px;
     margin: auto;
-    padding-top: 10px;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 li{
     display: inline;
     text-decoration: none;
 }
 
+.cover{
+    background-color: blue;
+    margin: 30px;
+}
+
+
+.sec1{
+    background-color: pink;
+    height: 200px;
+    width: 40%;
+}
