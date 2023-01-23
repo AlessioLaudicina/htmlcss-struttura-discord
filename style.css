@@ -28,6 +28,21 @@
     align-items: center;
     padding-left: 10px;
     padding-right: 10px;
+    border: dashed;
+}
+
+.logo{
+    border: dashed;
+}
+
+.button_header{
+    border: dashed;
+}
+
+.button{
+    height: 30px;
+    width: 66px;
+    border-radius: 8px;
 }
 
 .header-bottom{
@@ -43,16 +58,19 @@
     height: 200px;
     width: 600px;
     margin: auto;
+    border: dashed;
 }
 
 li{
     display: inline;
     text-decoration: none;
+    border: dashed;
 }
 
 .cover{
     background-color: blue;
     margin: 60px;
+    border: dashed;
 }
 
 
@@ -60,12 +78,14 @@ li{
     background-color: pink;
     height: 350px;
     width: 40%;
+    border: dashed;
 }
 
 
 .cover2{
     background-color: pink;
     margin: 60px;
+    border: dashed;
 }
 
 
@@ -73,6 +93,7 @@ li{
     background-color: blue;
     height: 350px;
     width: 40%;
+    border: dashed;
 }
 
 
@@ -81,6 +102,7 @@ li{
     background-color: rgb(167, 160, 160);
     width: 100%;
     display: flex;
+    border: dashed;
 }
 
 .container_sec{
@@ -88,4 +110,5 @@ li{
     width: 400px;
     background-color: green;
     margin: auto;
+    border: dashed;
 }
