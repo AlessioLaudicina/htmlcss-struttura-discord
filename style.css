@@ -34,13 +34,14 @@
     height: 270px;
     background-color: blue;
     margin-top: 10px;
+    display: flex;
 }
 
 .flex_cover{
     display: flex;
     background-color: red;
     height: 200px;
-    width: 200px;
+    width: 600px;
     margin: auto;
 }
 
