@@ -160,15 +160,16 @@ footer hr{
     margin: 20px 0px;
 }
 
-.footer-bottom{
+.footer_bottom{
     display: flex;
     justify-content: space-between;
     background-color: aquamarine;
     padding: 20px 0px;
-    height: 100px;
+    height: 20px;
 
     
 }
+
 
 .col{
     border: dashed;
